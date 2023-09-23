@@ -1,4 +1,4 @@
-# Proje Adı
+# Summarize Articles with OpenAI GPT-4
 
 Bu proje, OpenAI ile verilen url'in içeriğinin özetini çıkartmaya yarar:
 
@@ -22,4 +22,6 @@ Projeyi kullanmaya başladığınızda herhangi bir sorunuz veya geri bildirimin
 ![1.](/SS/1-1.png)
 
 ![Sonuç](/SS/1.png)
+
+! JavaScript Mastery eğitim videosu ile hazırlanmıştır.
 
