@@ -19,8 +19,9 @@ Bu proje, React bileşenlerinin durum yönetimini react-redux kullanarak entegre
 
 Projeyi kullanmaya başladığınızda herhangi bir sorunuz veya geri bildiriminiz varsa lütfen GitHub üzerinden issue açarak paylaşın. İyi kodlamalar!
 
-![1.](/SS/1-1.png)
+1.![1.](/SS/1-1.png)
 
+Sonuç :
 ![Sonuç](/SS/1.png)
 
 ! JavaScript Mastery eğitim videosu ile hazırlanmıştır.
